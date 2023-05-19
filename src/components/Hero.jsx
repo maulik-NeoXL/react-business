@@ -7,7 +7,7 @@ export default function Hero()
     <div className='text-white'>
          <div className="max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center">
            <p className='text-[#00df9a] font-bold'> GROWING WITH DATA ANALYTICS</p>
-           <h1 className='font-bold sm:text-6xl md:text-7xl text-5xl md:p-4 sm: py-4 '> Grow with Data.</h1>
+           <h1 className='font-bold md:text-5xl text-4xl md:p-4 sm: py-4 '> Grow with Data.</h1>
            <div>
              <p className='md: text-5xl sm: text-4xl text-xl font-bold'>Fast, flexible financing for <Typed className='md: text-5xl sm: text-4xl text-xl font-bold text-[#00df9a]' strings={['B2B', 'D2C', 'B2C', 'SAAS']}
                typeSpeed={120}
